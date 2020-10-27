@@ -1,0 +1,1 @@
+This folder contains files relevant to the project undertaken for Data Mining course. The dataset can be downloaded from kaggle competition [What's Cooking](https://www.kaggle.com/c/whats-cooking/overview)
