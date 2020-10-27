@@ -2,6 +2,12 @@
 
 ## This repository is for Machine Learning, Deep learning and Computer Vision projects.
 
+### [AI in Medical :](https://github.com/rawakash66/github-akash/tree/master/AI%20in%20Medical)
+- This is an online course under coursera for deep learning application in Biomedical field.
+- Medical diagnosis using chest X-ray classification and image segmentation with 3D-UNET for tumour detection.
+- Medial prognosis with survival models and hazard calculation.
+- Medical treatment with NLP in radiology reports and implementation of GradCam algorithm.
+
 ### [Cuisine Prediction :](https://github.com/rawakash66/github-akash/tree/master/Cuisine%20Prediction)
 - This is a Data Mining project based on text mining and pattern recognition on kaggle competition [What's Cooking](https://www.kaggle.com/c/whats-cooking/overview)
 - Glove vector implementation to get similarity in the words, and lemmatization, duplicate row elimination for data cleaning.
