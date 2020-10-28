@@ -14,6 +14,12 @@
 - Document term and TF-IDF matrix implementation for feature extraction.
 - Implementation of ANN, Naive-Bayes, SVM, Random Forest and Logistic Regression for classification into 20 cuisines.
 
+### [Deep Learning :](https://github.com/rawakash66/github-akash/tree/master/Deep%20Learning%20Course)
+- This is a coursera course undertaken to study the basics of deep learning to learn and apply in Vision, NLP, etc.
+- This includes basics of Neural Networks, initialization, optimization and regularization methods.
+- This includes introduction to CNN's and their application in image classification and object detection.
+- This includes introduction to sequence networks and their application in NLP.
+
 ### [Digit Recognizer :](https://github.com/rawakash66/github-akash/tree/master/Digit%20Recognizer)
 - This is the basic introductory image classification model, trained to predict the handwritten images.
 - The dataset is downloaded from the kaggle MNIST data, having 60,000 for training and 10,000 for testing.
