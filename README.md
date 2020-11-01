@@ -41,7 +41,8 @@
 - This is an ongoing project, aimed for learning basic image processing operations without any pre-existing library implementations.
 - Implementation of optical flow with an pin hole camera model on a 1cm X 1cm sensor array **Assignment1-Task4**.
 - Implementation of Sampling and quantization from scratch **Assignment1-Task2 & 3**.
-- Spatial and fourier domain operations for image enhancement **Assignment2-Task1, 2 & 3**. It is not present in files as it is ongoing.
+- Implementation of visual search with template-based methods **Assignment2-Task4**.
+- Implementation of Intensity level, spatial smoothing and sharpening image enhancement methods **Assignment2-Task1, Task2 & Task3**.
 
 ### [Petal Classification :](https://github.com/rawakash66/github-akash/tree/master/Petal%20Classification)
 - A deep learning approach to classify petal images into 104 species providing introduction in TPU utilization.
