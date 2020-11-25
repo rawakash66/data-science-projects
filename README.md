@@ -43,6 +43,7 @@
 - Implementation of Sampling and quantization from scratch **Assignment1-Task2 & 3**.
 - Implementation of visual search with template-based methods **Assignment2-Task4**.
 - Implementation of Intensity level, spatial smoothing and sharpening image enhancement methods **Assignment2-Task1, Task2 & Task3**.
+- Implementation of image resotaration along with resizing and filtering in frequency domain **Assignment 3**.
 
 ### [Petal Classification :](https://github.com/rawakash66/github-akash/tree/master/Petal%20Classification)
 - A deep learning approach to classify petal images into 104 species providing introduction in TPU utilization.
